@@ -1,0 +1,6 @@
+numpy
+pandas
+yfinance
+torch
+networkx
+scikit-learn
