@@ -26,4 +26,5 @@ Example output:
 ## How to Run
 ```bash
 pip install -r requirements.txt
+python generate_data.py
 python main.py
