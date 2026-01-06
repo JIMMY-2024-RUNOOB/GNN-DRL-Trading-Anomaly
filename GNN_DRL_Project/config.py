@@ -1,0 +1,10 @@
+ASSETS = ["AAPL", "MSFT", "BTC-USD", "ETH-USD"]
+NUM_ASSETS = len(ASSETS)
+
+START_DATE = "2020-01-01"
+END_DATE = "2023-01-01"
+
+INITIAL_CASH = 10000
+
+STATE_DIM = 3   # Close, SMA, Momentum
+ACTION_DIM = 3  # Sell / Hold / Buy
